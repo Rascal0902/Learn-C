@@ -1,0 +1,14 @@
+id : "BM"
+filesize : 2359352 bytes
+offset : 54 bytes
+
+DIBsize : 40 bytes
+imagewidth : 1024 pixels
+imageheight : 768 pixels
+bitsperpixel : 24 bits/pixel
+compression : 0
+imagedatasize : 2359298 bytes
+hresolution : 2834 pixels/meter
+vresolution : 2834 pixels/meter
+colorpalette : 0
+importantcolors : 0
